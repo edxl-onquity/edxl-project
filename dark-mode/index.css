@@ -1,0 +1,293 @@
+.role {
+    background: linear-gradient(143.16deg, #28cbc3, #0d78d3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .select-role1 {
+    position: absolute;
+    top: 18.52%;
+    left: 43.56%;
+    font-size: 32px;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background: linear-gradient(178.56deg, #78aeff, #5e9fff);
+    box-shadow: 0 12px 60px #000;
+    width: 265px;
+    height: 346px;
+  }
+  .noun-startup-2935505-1-icon {
+    position: absolute;
+    top: 32px;
+    left: 83px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+  }
+  .i-am-startup,
+  .lorem-ipsum-dolor {
+    position: absolute;
+    top: 164px;
+    left: 61px;
+    letter-spacing: 0.15px;
+    line-height: 150%;
+  }
+  .lorem-ipsum-dolor {
+    top: 212px;
+    left: 15px;
+    font-size: var(--font-size-sm);
+    font-weight: 300;
+    font-family: var(--font-inter);
+    text-align: center;
+    display: inline-block;
+    width: 236px;
+  }
+  .group-item,
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 265px;
+    height: 346px;
+  }
+  .group-item {
+    border-radius: var(--br-5xs);
+    background: linear-gradient(177.78deg, #afa5f9, #867dfd);
+  }
+  .button,
+  .component-5-child {
+    position: absolute;
+    width: 100%;
+    left: 0;
+  }
+  .component-5-child {
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--primary-texti);
+  }
+  .button {
+    top: 27.08%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .component-5 {
+    position: absolute;
+    top: 278px;
+    left: 12px;
+    width: 241px;
+    height: 48px;
+    color: var(--cta);
+  }
+  .i-am-individual,
+  .lorem-ipsum-dolor1 {
+    position: absolute;
+    letter-spacing: 0.15px;
+    line-height: 150%;
+  }
+  .i-am-individual {
+    top: 164px;
+    left: 49px;
+    font-size: var(--font-size-5xl);
+    text-align: left;
+  }
+  .lorem-ipsum-dolor1 {
+    top: 212px;
+    left: 15px;
+    font-size: var(--font-size-sm);
+    font-weight: 300;
+    font-family: var(--font-inter);
+    display: inline-block;
+    width: 236px;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 0;
+    left: 313px;
+    width: 265px;
+    height: 346px;
+    text-align: center;
+    font-size: var(--font-size-base);
+  }
+  .group-parent {
+    position: absolute;
+    top: 242px;
+    left: 394px;
+    width: 578px;
+    height: 346px;
+    font-size: var(--font-size-5xl);
+  }
+  .span {
+    font-weight: 600;
+    font-family: var(--font-manrope);
+  }
+  .login {
+    color: #a591ff;
+  }
+  .already-have-an-container {
+    position: absolute;
+    top: 648px;
+    left: 565px;
+    color: #fff;
+  }
+  .group-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--bg);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.75);
+  }
+  .frame-child {
+    position: relative;
+    width: 40px;
+    height: 40px;
+  }
+  .john-doe {
+    position: relative;
+    line-height: 150%;
+  }
+  .group-container {
+    position: absolute;
+    height: 100%;
+    width: 80.69%;
+    top: 0;
+    right: 19.31%;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+  }
+  .expand-more-icon {
+    position: absolute;
+    height: 60%;
+    width: 16.55%;
+    top: 20%;
+    right: 0;
+    bottom: 20%;
+    left: 83.45%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .frame-parent,
+  .group-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 10.61%;
+    top: 18.33%;
+    right: 15.23%;
+    bottom: 15%;
+    left: 74.16%;
+  }
+  .group-icon {
+    height: 53.33%;
+    width: 8.86%;
+    top: 23.33%;
+    right: 82.87%;
+    bottom: 23.33%;
+    left: 8.27%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .component-8-child,
+  .rectangle-container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .component-8-child {
+    border-radius: 200px;
+    background-color: #383838;
+    box-shadow: 2px 2px 17px #000 inset, 2px 2px 1px transparent inset;
+  }
+  .mask-group-icon {
+    position: absolute;
+    height: 85.63%;
+    width: 42.84%;
+    top: 3.61%;
+    right: 6.03%;
+    bottom: 10.76%;
+    left: 51.13%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .component-8-item {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 500px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5),
+      -1px -1px 2px rgba(0, 0, 0, 0.29) inset,
+      1px 1px 1px rgba(255, 255, 255, 0.16) inset;
+    border: 6px solid #3e3e3e;
+    box-sizing: border-box;
+  }
+  .dark {
+    position: absolute;
+    top: 38.89%;
+    left: 16.9%;
+    letter-spacing: 0.25em;
+  }
+  .component-8 {
+    position: absolute;
+    height: 60%;
+    width: 5.2%;
+    top: 20%;
+    right: 8.27%;
+    bottom: 20%;
+    left: 86.53%;
+    text-align: center;
+    font-size: 7px;
+    color: #a9a9a9;
+    font-family: var(--font-roboto);
+  }
+  .component-51,
+  .navigation-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1366px;
+    height: 60px;
+  }
+  .component-51 {
+    top: 520px;
+    left: 406px;
+    width: 241px;
+    height: 48px;
+    text-align: center;
+    color: var(--cta);
+  }
+  .select-role {
+    position: relative;
+    background-color: var(--bg);
+    width: 100%;
+    height: 810px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--primary-texti);
+    font-family: var(--font-manrope);
+  }
+  
